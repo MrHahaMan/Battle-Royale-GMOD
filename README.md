@@ -11,7 +11,7 @@ Helicopters
 
 New Maps
 
-ARC9 support
+<s>text</s>ARC9 support<s>text</s>
 
 better map system
 
